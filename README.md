@@ -17,7 +17,8 @@ It demonstrates the use of DAX calculations, interactive slicers, and geospatial
 - Visualization and Dashboard Design  
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshot 2025-10-27 213111.png)
+ ![Dashboard Screenshot](Screenshot2025-10-27213111.png)
+
 
 ## 📁 Project File
 - [Travel_Insights_Dashboard.pbix](Travel_Insights_Dashboard.pbix)
