@@ -21,7 +21,7 @@ It demonstrates the use of DAX calculations, interactive slicers, and geospatial
 
 
 ## 📁 Project File
-- [Travel_Insights_Dashboard.pbix](Travel_Insights_Dashboard.pbix)
+- [Travel_Insights_Dashboard.pbix](AirlinesDataAnalysisusingPowerBI.pbix)
 
 ## 📊 Author
 **Aadhya Dia**  
